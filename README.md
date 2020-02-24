@@ -25,6 +25,7 @@ Few Points To Note:
 1) Only if you provide name or description the information will be shown in the 2nd tab
 2) The tabs are made sticky to give a good user experience
 
+![image](https://user-images.githubusercontent.com/11676394/75199873-44d2f200-578a-11ea-9c5c-17f5216b1640.png)
 
 ![image](https://user-images.githubusercontent.com/11676394/75199743-e443b500-5789-11ea-8e56-60d9479138d8.png)
 
