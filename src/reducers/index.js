@@ -1,16 +1,20 @@
 import { ADD_NAME_DESCRIPTION, OPEN_POPUP, SWITCH_TAB,CLOSE_POPUP } from "../constants/action-types";
+import image1 from '../images/1.jpg';
 import image2 from '../images/2.jpg';
 import image3 from '../images/3.jpg';
 import image4 from '../images/4.jpg';
 import image5 from '../images/5.jpg';
 import image6 from '../images/6.jpg';
+import image7 from '../images/7.jpg';
 import image8 from '../images/8.jpg';
 import image9 from '../images/9.jpg';
 import image10 from '../images/10.jpg';
+import image11 from '../images/11.jpg';
+import image12 from '../images/12.jpg';
 
 const initialState = {
-  applicationInfo: [{ imageSrc: image2, showPopup: false, name: "", description: "" },
-  { imageSrc: image2, showPopup: false, name: "", description: "" }, { imageSrc: image3, showPopup: false, name: "", description: "" }, { imageSrc: image4, showPopup: false, name: "", description: "" }, { imageSrc: image5, showPopup: false, name: "", description: "" }, { imageSrc: image6, showPopup: false, name: "", description: "" }, { imageSrc: image8, showPopup: false, name: "", description: "" }, { imageSrc: image8, showPopup: false, name: "", description: "" }, { imageSrc: image9, showPopup: false, name: "", description: "" }, { imageSrc: image10, showPopup: false, name: "", description: "" }, { imageSrc: image2, showPopup: false, name: "", description: "" }, { imageSrc: image6, showPopup: false, name: "", description: "" }],
+  applicationInfo: [{ imageSrc: image8, showPopup: false, name: "", description: "" },
+  { imageSrc: image2, showPopup: false, name: "", description: "" }, { imageSrc: image3, showPopup: false, name: "", description: "" }, { imageSrc: image4, showPopup: false, name: "", description: "" }, { imageSrc: image5, showPopup: false, name: "", description: "" }, { imageSrc: image6, showPopup: false, name: "", description: "" }, { imageSrc: image1, showPopup: false, name: "", description: "" }, { imageSrc: image11, showPopup: false, name: "", description: "" }, { imageSrc: image9, showPopup: false, name: "", description: "" }, { imageSrc: image10, showPopup: false, name: "", description: "" }, { imageSrc: image7, showPopup: false, name: "", description: "" }, { imageSrc: image12, showPopup: false, name: "", description: "" }],
   activeTab: 0
 };
 
